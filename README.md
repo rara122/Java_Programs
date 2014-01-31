@@ -15,8 +15,8 @@ Just some Simple Java programs that I have coded for class, work, etc.
 
 <u><h3>Fraction and IntegerSet</h3></u>
 
-<b>Fraction:</b> A classic Class definition of a Fraction. This is an Object Oriented way of defining fraction, partially given by our teacher and updated by me. I added simple arithmetic functions such as: simplify(), add(), subtract(), multiply(), divide(). The "toString()" class is also overloaded so that you can print out Fractions with ease.<br/>
+<b>Fraction:</b> A classic Class definition of a Fraction. This is an Object Oriented way of defining fraction, partially given by our teacher and updated by me. I added simple arithmetic functions such as: simplify(), add(), subtract(), multiply(), divide(). The "toString()" class is also overrided so that you can print out Fractions with ease.<br/>
 
-<b>IntegerSet:</b> IntegerSet is used to hold array Sets of 0 - 100. They also have additional functions for the set theoretical union and intersect. It also has an isEqualTo() function for declaring equal sets and finally a toString() "overload" as well.<br/>
+<b>IntegerSet:</b> IntegerSet is used to hold array Sets of 0 - 100. They also have additional functions for the set theoretical union and intersect. It also has an isEqualTo() function for declaring equal sets and finally a toString() "overrided" as well.<br/>
 
 <b>DriverForFracIntegerSet.jar:</b> Includes an executable Jar file with a driver for Fraction and IntegerSet classes.
