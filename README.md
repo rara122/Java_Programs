@@ -5,6 +5,15 @@ Java_Programs
 Just some Simple Java programs that I have coded for class, work, etc.
 
 
+<u><h3>TicTacToe</h3></u>
+<b>TicTacToe:</b> Classic Tic Tac Toe game with optional computer players also. (Uses of inheritance and polymorphism)<br/><br/>
+<b>Command line</b> usage example:<br/>
+<code>Usage:  java TicTacToe [-c [1|2] [-a]]</code><br/>
+-c: include Computers<br/>
+1|2: designate Computer as player 1 or 2<br/>
+-a: advanced Computer... Not yet implemented.<br/>
+
+
 <u><h3>Dice, Pi, and Primes</h3></u>
 <b>Dice:</b> Randomly generated Dice machine. Rolls two dice at a time. You just input how many instances you would like to roll.<br/>
 
@@ -20,3 +29,5 @@ Just some Simple Java programs that I have coded for class, work, etc.
 <b>IntegerSet:</b> IntegerSet is used to hold array Sets of 0 - 100. They also have additional functions for the set theoretical union and intersect. It also has an isEqualTo() function for declaring equal sets and finally a toString() "overrided" as well.<br/>
 
 <b>DriverForFracIntegerSet.jar:</b> Includes an executable Jar file with a driver for Fraction and IntegerSet classes.
+
+
