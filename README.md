@@ -3,7 +3,7 @@ Java_Programs
 
 
 Just some Simple Java programs that I have coded for class, work, etc.
-
+<hr/>
 
 <u><h3>TicTacToe</h3></u>
 <b>TicTacToe:</b> Classic Tic Tac Toe game with optional computer players also. (Uses of inheritance and polymorphism)<br/><br/>
@@ -12,6 +12,7 @@ Just some Simple Java programs that I have coded for class, work, etc.
 -c: include Computers<br/>
 1|2: designate Computer as player 1 or 2<br/>
 -a: advanced Computer... Not yet implemented.<br/>
+<hr/>
 
 
 <u><h3>Dice, Pi, and Primes</h3></u>
@@ -20,6 +21,7 @@ Just some Simple Java programs that I have coded for class, work, etc.
 <b>Pi:</b> Takes an integer input of "Terms" to approximate Pi. Uses <code>pi = 4 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11 + ... </code> as the premise for "terms".<br/>
 
 <b>Primes:</b> This program shows a Listing of Prime numbers from 2 up to the Integer Input that you give. There is also a public function that returns true if the number input is prime or false otherwise.
+<hr/>
 
 
 <u><h3>Fraction and IntegerSet</h3></u>
